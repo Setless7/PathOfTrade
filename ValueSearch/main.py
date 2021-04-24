@@ -1,5 +1,5 @@
 #-- coding: utf-8 --
-
+feq
 
 from system_hotkey import SystemHotkey
 from PyQt5.QtWidgets import QApplication, QWidget, QDialog, QMainWindow
