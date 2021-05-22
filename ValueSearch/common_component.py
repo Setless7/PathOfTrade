@@ -29,7 +29,7 @@ label = {
 class price_lwidget:
     def addprice_lwidget(self, main_form):
         self.price_lwidget = QtWidgets.QListWidget(main_form)
-        self.price_lwidget.setGeometry(QtCore.QRect(10, 560, 341, 461))
+        self.price_lwidget.setGeometry(QtCore.QRect(10, 100, 341, 921))
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Preferred)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
